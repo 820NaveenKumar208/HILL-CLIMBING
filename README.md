@@ -107,6 +107,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
-## Output:
+## Output :
 
 ![371387444-0fdde4de-015d-469a-aa41-e673367d5362](https://github.com/user-attachments/assets/dad286e8-ff94-4620-b9a6-f56d82ad71c0)
